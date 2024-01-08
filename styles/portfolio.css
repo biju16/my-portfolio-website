@@ -117,3 +117,15 @@ main{
 .about-info{
     text-align: center;
 }
+
+/* What i do section style */
+#whatido-des{
+    padding: 30px 150px;
+}
+.skill-container{
+    display: flex;
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
